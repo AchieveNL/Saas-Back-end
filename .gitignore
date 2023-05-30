@@ -1,0 +1,31 @@
+# Ignore Node.js build and runtime directories
+node_modules/
+dist/
+build/
+
+# Ignore environment configuration files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore user-specific IDE or editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore macOS directory attributes
+.DS_Store
+
+# Ignore npm package lock file
+package-lock.json
+
+# Ignore yarn lock file
+yarn.lock
+
+# Ignore any other generated or temporary files
+*.tmp
+*.bak
+*.swp
+*.~
