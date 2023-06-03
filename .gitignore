@@ -3,6 +3,9 @@ node_modules/
 dist/
 build/
 
+# Ignore the unotes file if using the extension in the VS Code
+.unotes/
+
 # Ignore environment configuration files
 .env
 
